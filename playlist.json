@@ -1,16 +1,16 @@
 [
   {
-    "id": "f04bffdb-9c24-4460-8d11-fd55299b4a8b",
-    "title": "Last Word",
-    "artist": "Sparkie Records",
-    "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/last-word.aac",
-    "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/last-word.jpg"
-  },
-  {
     "id": "e3cede63-04e8-4d72-8ee7-e70845f3eaba",
     "title": "4TheLoveofGOD",
     "artist": "Sparkie Records",
     "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/4theloveofgod.mp3",
     "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/4theloveofgod.jpg"
+  },
+  {
+    "id": "f04bffdb-9c24-4460-8d11-fd55299b4a8b",
+    "title": "Last Word",
+    "artist": "Sparkie Records",
+    "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/last-word.aac",
+    "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/last-word.jpg"
   }
 ]
