@@ -12,5 +12,12 @@
     "artist": "Sparkie Records",
     "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/last-word.aac",
     "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/last-word.jpg"
+  },
+  {
+    "id": "14782301-45a6-4c4b-b830-26764cfa69fd",
+    "title": "Wild-n-Free",
+    "artist": "Sparkie Records",
+    "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/wild-n-free.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/wild-n-free.png"
   }
 ]
