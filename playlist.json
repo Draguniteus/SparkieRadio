@@ -19,5 +19,12 @@
     "artist": "Sparkie Records",
     "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/wild-n-free.mp3",
     "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/wild-n-free.png"
+  },
+  {
+    "id": "f1a7370f-5a69-4b61-b369-e6ce49647b49",
+    "title": "TheFallen",
+    "artist": "Sparkie Records",
+    "url": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/songs/thefallen.mp3",
+    "coverUrl": "https://raw.githubusercontent.com/Draguniteus/SparkieRadio/main/covers/thefallen.png"
   }
 ]
